@@ -23,8 +23,6 @@ TARGET_CPU_VARIANT := krait
 ENABLE_CPUSETS := true
 
 TARGET_NO_BOOTLOADER := true
-CLANG_O3 := true
-STRICT_ALIASING := true
 TARGET_NO_BOOTLOADER := true
  
 # Inline kernel building
